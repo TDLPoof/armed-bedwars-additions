@@ -8,4 +8,4 @@ We gave custom textures to the:
 
 We added:
 
-  Sniper, Rocket Launcher, Minigun, Pulse Rifle
+  Sniper, Rocket Launcher, Minigun, Pulse Rifle, Flare Gun
