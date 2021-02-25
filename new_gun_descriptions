@@ -1,6 +1,7 @@
 Sniper:
 Cost: 15 Gold
 Ammunition: 4
+Ammunition Type: Bullet
 Damage: 15 (2 body shots to kill, 1 headshot)
 Firerate: 0.5 bullets / second
 Fire Type: Semi-Auto
@@ -10,6 +11,7 @@ Features: Firing while not sneaking is extremely inaccurate (reliable up to 2 bl
 Minigun:
 Cost: 300 Iron
 Ammunition: 1000
+Ammunition Type: Bullet
 Damage: 0.1 (200 body shots to kill, 100 headshots)
 Firerate: 50 bullets / second
 Fire Type: Full-Auto
@@ -19,18 +21,30 @@ Features: Firing while not sneaking is extremely inaccurate (reliable up to 5 bl
 Rocket Launcher:
 Cost: 64 Iron
 Ammunition: 1
+Ammunition Type: Fireball
 Damage: 8, flat (3 body shots to kill, 3 headshots)
 Firerate: 1 bullet / second
-Fire Type: One Shot
+Fire Type: Musket
 Reload: 4 seconds
 Features: Never leaves inventory, requires fireballs to load. Fires fireballs instead of hitscan beams, twice the speed and knockback of normal fireballs and higher damage.
 
 Pulse Rifle:
 Cost: 12 Emeralds
 Ammunition: 100
+Ammunition Type: Burning Laser
 Damage: 3, burn (7 body shots to kill, 4 headshots)
 Burn Time: 2 seconds, nonstackable (Hitting a burning target will renew the burn time, not add to the existing)
 Firerate: 20 bullets / second
 Fire Type: Full-Auto
 Reload: 3 seconds
 Features: Absolutely overpowered, extremely high cost, 200 blocks of range.
+
+Flare Gun:
+Cost: 8 Gold (4 in Duos)
+Ammunition: 1
+Ammunition Type: Firework, Duration 1
+Damage: 0 (cannot kill an opponent with projectile)
+Firerate: N/A
+Fire Type: Single Use
+Reload: N/A
+Features: Upon firing, the item breaks and three fireballs spawn (interval: 0.5 seconds) at y=100, going straight down. These are the same as purchasable fireballs.
