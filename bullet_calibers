@@ -1,0 +1,21 @@
+New calibers for bullets can be bought in the store, each with different effects.
+
+Slowness Caliber:
+Cost (16 bullets): 24 Iron
+Bullet Trail: Gray
+Effect: Slowness 2 on hit
+
+Harming Caliber:
+Cost (16 bullets): 8 Gold
+Bullet Trail: Dark Red
+Effect: 20% more damage per bullet
+
+Tracking Caliber:
+Cost (16 bullets): 2 Emeralds
+Bullet Trail: Bright Red
+Effect: Points your compass toward the last enemy hit for 10 nonstackable seconds.
+
+Phantom Caliber:
+Cost (16 bullets): 4 Tags (getting a kill gives you one tag)
+Bullet Trail: None
+Effect: Your bullets have no trail
