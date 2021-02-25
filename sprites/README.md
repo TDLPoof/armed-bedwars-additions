@@ -1,27 +1,26 @@
 lol heres some sprites for armed bedwars
 
 We gave custom textures to the:
+  Pistol
+  
+  Magnum
 
-Pistol
+  Rifle
 
-Magnum
+  SMG
 
-Rifle
+  Not-A-Flamethrower
 
-SMG
-
-Not-A-Flamethrower
-
-Shotgun
+  Shotgun
 
 
 
 We added:
 
-Sniper
+  Sniper
 
-Rocket Launcher
+  Rocket Launcher
 
-Minigun
+  Minigun
 
-Pulse Rifle
+  Pulse Rifle
